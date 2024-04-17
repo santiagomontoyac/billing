@@ -9,7 +9,7 @@ import org.springframework.http.HttpStatus;
 
 /**
  *
- * @author santiagomontoyac
+ * @author sotobotero
  */
 public class BusinessRuleException extends Exception{
   
