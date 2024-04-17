@@ -12,10 +12,9 @@ import javax.persistence.Id;
 import lombok.Data;
 
 
-
 /**
  *
- * @author sotobotero
+ * @author santiagomontoyac
  */
 @Entity
 @Data
