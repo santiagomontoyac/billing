@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author santiagomontoyac
+ * @author sotobotero
  */
 public interface InvoiceRepository extends JpaRepository<Invoice, Long> {
     

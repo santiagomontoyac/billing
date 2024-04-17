@@ -25,7 +25,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 
 /**
  *
- * @author santiagomontoyac
+ * @author sotobotero
  * 
  */
 @Configuration
