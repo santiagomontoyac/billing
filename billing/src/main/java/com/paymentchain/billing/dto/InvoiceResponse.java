@@ -11,7 +11,7 @@ import lombok.Data;
 
 /**
  *
- * @author sotobotero
+ * @author santiagomontoyac
  */
 @Data
 @ApiModel(description = "This model represent a Invoice data that user should send on a request on post method" )

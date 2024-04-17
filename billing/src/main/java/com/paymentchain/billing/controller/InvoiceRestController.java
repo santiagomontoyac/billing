@@ -30,7 +30,7 @@ import java.util.Optional;
 
 /**
  *
- * @author sotobotero
+ * @author santiagomontoyac
  */
 @Api(tags = "Billing API")
 @RestController
