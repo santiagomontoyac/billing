@@ -40,9 +40,9 @@ public class InvoiceApplication {
                 .description("Digitalthinking Shool API reference for developers, teh error handler is implement using \n"
                         + " The IETF devised RFC 7807 effor, which creates a generalized error-handling schema.\n"
                         + "https://tools.ietf.org/html/rfc7807")
-                .termsOfServiceUrl("http://www.linkedin.com/in/casotobotero")
+                .termsOfServiceUrl("http://www.linkedin.com/in/casantiagomontoyac")
                 .contact(new Contact("Carlos Adrian Soto", "", "https://digitalthinking.biz/es/ada-enterprise-core#contactus"))
-                .license("sotobotero License")
+                .license("santiagomontoyac License")
                 .licenseUrl("https://digitalthinking.biz/es/ada-enterprise-core#contactus")
                 .version("1.0")
                 .build();

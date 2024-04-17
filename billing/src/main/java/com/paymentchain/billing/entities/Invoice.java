@@ -15,7 +15,7 @@ import lombok.Data;
 
 /**
  *
- * @author sotobotero
+ * @author santiagomontoyac
  */
 @Entity
 //@Data
